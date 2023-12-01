@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700207640 source:c:\users\mlesniak\desktop\lessonthree\main.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+
