@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1704440094 source:c:\users\mlesniak\desktop\lessoneight\main.cpp
+	<iostream>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+
