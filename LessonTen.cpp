@@ -1,5 +1,5 @@
-Zad 1
-tablicę dwuwymiarową, gdzie ilosc wierszy i kolumn podaje użytkownik wypełnij liczbami losowymi dwucyfrowymi, pokaż wykonaną tablicę. Następnie posortować jej elementy po wierszach
+//Zad 1
+//tablicę dwuwymiarową, gdzie ilosc wierszy i kolumn podaje użytkownik wypełnij liczbami losowymi dwucyfrowymi, pokaż wykonaną tablicę. Następnie posortować jej elementy po wierszach
 
 #include <iostream>
 #include <time.h>
@@ -68,8 +68,8 @@ int main() {
 
 
 
-Zad 2
-wyznacz ilość liczb pierwszych znajdujących się w przedziale <2,n> i jeżeli ta ilość jest parzysta, to liczby pierwsze z tego przedziału zapisz do pliku, a jeśli nieparzyste - wyświetl na ekranie. "n" podaje użytkownik
+//Zad 2
+//wyznacz ilość liczb pierwszych znajdujących się w przedziale <2,n> i jeżeli ta ilość jest parzysta, to liczby pierwsze z tego przedziału zapisz do pliku, a jeśli nieparzyste - wyświetl na ekranie. "n" podaje użytkownik
 #include <iostream>
 #include <time.h>
 #include <math.h>
@@ -119,8 +119,8 @@ int main()
 
 
 
-Zad 3
-Wylosuj 10 liczb całkowitych od 10 do 50 i obok każdej z nich napisz jej postać w systemie binarnym
+//Zad 3
+//Wylosuj 10 liczb całkowitych od 10 do 50 i obok każdej z nich napisz jej postać w systemie binarnym
 
 #include <iostream>
 #include <time.h>
