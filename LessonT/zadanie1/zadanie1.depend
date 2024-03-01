@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709277083 source:c:\users\egzamin\desktop\zadanie1\main.cpp
+	<iostream>
+	<locale.h>
+
