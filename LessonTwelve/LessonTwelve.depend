@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712299529 source:c:\users\egzamin\desktop\lessontwelve\main.cpp
+	<iostream>
+	<fstream>
+
